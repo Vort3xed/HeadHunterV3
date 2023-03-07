@@ -1,4 +1,4 @@
-# HeadHunterV2
+# HeadHunterV3
 An AI model that finds faces in frames of a video
 
 # Instructions:
